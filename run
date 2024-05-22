@@ -1,0 +1,2 @@
+#!/bin/bash
+busybox httpd -p 9043 && echo Server running at 0.0.0.0:9043
