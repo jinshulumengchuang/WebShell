@@ -1,2 +1,0 @@
-#!/bin/bash
-busybox httpd -p 127.0.0.1:9043 && echo Use openssh tunnel to connect 127.0.0.1:9043
